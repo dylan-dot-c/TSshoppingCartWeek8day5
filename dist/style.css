@@ -1,0 +1,11 @@
+.item-thumbnail {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.shopping-cart {
+    max-height: 400px;
+    overflow: auto;
+    max-width: 500px;
+}
